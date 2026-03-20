@@ -5,7 +5,11 @@
 > This paragraph is written by the supervisor
 
 [The `scoreto` R package](https://github.com/richelbilderbeek/scoreto)
-fails. Why?
+fails. 
+`scoreto` is an R package that scrapes several websites to create
+[the SCoRe user documentation 'Courses' page](https://docs.score.nbis.se/courses/).
+
+Fix `scoreto` :+1:
 
 - [ ] Make an account at Posix Cloud
 - [ ] Start Posix Cloud
