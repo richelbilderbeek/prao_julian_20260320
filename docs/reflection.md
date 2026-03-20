@@ -10,7 +10,7 @@ By forcing oneself to think of this, one can actually learn from the past.
 ## What did you do?
 I lernd and read about HTML
 ## What did you do well?
-I dont know
+i dindent give up
 ## What could be improved?
 I coud talk lees in the start and start working i think i whod have a lot more done i did that but i still think i lernd some new stuff
 ## What did your supervisor do well?
