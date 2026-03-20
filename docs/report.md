@@ -21,3 +21,8 @@ Find out why the tests fail. Do not touch the tests.
 Fix the code. If all tests pass, you have succeeded.
 
 ## Steps
+
+First hour (11:00):
+We are trying to find the weebssite which has an incorrectly formated date.
+Second hour (13.00)
+So far we have figerd out what the issue is (the date it falsely formated) and with weebsite it is. We are asking chat gpt for ansers.
